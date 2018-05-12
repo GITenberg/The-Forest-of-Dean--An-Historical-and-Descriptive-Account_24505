@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26408'
     url: http://www.gutenberg.org/2009/agents/26408
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24505#The-Forest-of-Dean--An-Historical-and-Descriptive-Account
 gutenberg_bookshelf:
 - United Kingdom
 - Archaeology
